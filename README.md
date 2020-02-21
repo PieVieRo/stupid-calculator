@@ -1,4 +1,11 @@
 # stupid calculator
+
+### HOW IT WORKS
+
+### choose a number 1-4 (addition, substraction, multiplication, division)
+
+### choose any number (at least two pls)
+
 that's just a stupid calculator, a simple project made by me
 
 it is **slow**
